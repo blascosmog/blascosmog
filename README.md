@@ -1,17 +1,15 @@
-# Hi there, I'm Blas! 👋
+# Hi, I'm Blas 👋
 
-I'm a **Software Engineering Student** and **Research Intern** based in Seville, transitioning into the industry. My focus lies at the intersection of **Backend Architecture, Distributed Systems, and Artificial Intelligence**. 
+Software Engineering student at the University of Seville and Student Research Intern in the Dept. of Computer Science and AI. I'm most interested in backend engineering and in making AI systems reliable.
 
-I enjoy building resilient infrastructure, optimizing relational databases, and developing autonomous AI agents that solve complex data problems.
-
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech
 * **Languages:** Java (17/21), Python, SQL
-* **Frameworks & Architecture:** Spring Boot, REST APIs, Microservices, ETL Pipelines
-* **Infrastructure & DevOps:** Docker, Kubernetes (K3s), LVM, GitOps, Linux Bare-Metal
-* **Databases:** PostgreSQL, MySQL, Relational Modeling (3NF)
+* **Backend:** Spring Boot, REST APIs, Microservices
+* **Infrastructure:** Linux, Docker, Kubernetes (K3s), Tailscale
+* **Databases:** MariaDB, relational modeling (3NF)
 
-### 🚀 What I'm currently working on
-* Researching heuristic algorithms and constraint satisfaction problems (DHEP).
-* Honing my problem-solving skills with Data Structures and Algorithms.
+### 🚀 Currently working on
+* A neuro-symbolic framework where LLM agents compile natural-language rules into constraint models that are checked before their output is accepted (research, in progress).
+* Data structures and algorithms practice.
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/blas-cosano-a4a790382/) | ✉️ [Email](mailto:blascosano.dev@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/blas-cosano-a4a790382/) · [Email](mailto:blascosano1603@gmail.com)
